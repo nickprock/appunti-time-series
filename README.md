@@ -7,6 +7,7 @@ La serie storica con cui cercherò di lavorare (finchè sarà possibile) sarà [
 
 L'elenco degli argomenti trattati:
 #### 1. Trattare i Missing Values
+#### 2. Test Statistici sulla Stazionarietà
 
 
 ---
