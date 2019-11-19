@@ -9,6 +9,7 @@ L'elenco degli argomenti trattati:
 #### 1. Trattare i Missing Values
 #### 2. Test Statistici sulla Stazionarietà
 #### 3. Esperimenti con facebook Prophet
+#### 4. L'inganno del R^2
 
 
 ---
