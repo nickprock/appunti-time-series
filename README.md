@@ -16,7 +16,7 @@ L'elenco degli argomenti trattati:
 Se usi il mio codice nella tua ricerca, cita questo progetto.
 ```
 @misc{appunti-time-series,
-  author =       {Nicola Procopio,
+  author =       {Nicola Procopio},
   title =        {Appunti sulle Time Series},
   howpublished = {\url{https://github.com/nickprock/appunti-time-series/}},
   year =         {2019}
