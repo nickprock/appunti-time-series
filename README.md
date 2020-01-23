@@ -12,7 +12,16 @@ L'elenco degli argomenti trattati:
 #### 4. L'inganno del R^2
 #### 5. Outlier Detection
 
-
+# Citation
+Se usi il mio codice nella tua ricerca, cita questo progetto.
+```
+@misc{appunti-time-series,
+  author =       {Nicola Procopio,
+  title =        {Appunti sulle Time Series},
+  howpublished = {\url{https://github.com/nickprock/appunti-time-series/}},
+  year =         {2019}
+}
+```
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
