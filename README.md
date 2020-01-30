@@ -11,6 +11,7 @@ L'elenco degli argomenti trattati:
 #### 3. Esperimenti con facebook Prophet
 #### 4. L'inganno del R^2
 #### 5. Outlier Detection
+#### 6. Dynamic Time Warping
 
 # Citation
 Se usi il mio codice nella tua ricerca, cita questo progetto.
