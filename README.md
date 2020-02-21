@@ -12,6 +12,7 @@ L'elenco degli argomenti trattati:
 #### 4. L'inganno del R^2
 #### 5. Outlier Detection
 #### 6. Dynamic Time Warping
+#### 7. Completare i periodi con date mancanti
 
 # Citation
 Se usi il mio codice nella tua ricerca, cita questo progetto.
