@@ -13,6 +13,7 @@ L'elenco degli argomenti trattati:
 #### 5. Outlier Detection
 #### 6. Dynamic Time Warping
 #### 7. Completare i periodi con date mancanti
+#### 8. SAX Encoding
 
 # Citation
 Se usi il mio codice nella tua ricerca, cita questo progetto.
